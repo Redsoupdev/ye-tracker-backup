@@ -3,15 +3,15 @@ Backup of ye tracker from 13.06.2025
 heres all links:
 https://redsoupdev.github.io/ye-tracker-backup/Unreleased.html
 
-https://redsoupdev.github.io/ye-tracker-backup/Album Copies.html
+https://redsoupdev.github.io/ye-tracker-backup/Album-Copies.html
 
 https://redsoupdev.github.io/ye-tracker-backup/Art.html
 
-https://redsoupdev.github.io/ye-tracker-backup/Best Of.html
+https://redsoupdev.github.io/ye-tracker-backup/Best-Of.html
 
 https://redsoupdev.github.io/ye-tracker-backup/Fakes.html
 
-https://redsoupdev.github.io/ye-tracker-backup/Grails Wanted.html
+https://redsoupdev.github.io/ye-tracker-backup/Grails-Wanted.html
 
 https://redsoupdev.github.io/ye-tracker-backup/Groupbuys.html
 
@@ -35,4 +35,4 @@ https://redsoupdev.github.io/ye-tracker-backup/Template.html
 
 https://redsoupdev.github.io/ye-tracker-backup/Tracklists.html
 
-https://redsoupdev.github.io/ye-tracker-backup/Worst Of.html
+https://redsoupdev.github.io/ye-tracker-backup/Worst-Of.html
